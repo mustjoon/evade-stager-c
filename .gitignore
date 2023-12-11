@@ -373,9 +373,9 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-x64/
+x64/*
 
-Stager-c/x64
+Stager-c/x64/*
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
@@ -387,6 +387,8 @@ FodyWeavers.xsd
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+.vs/*
 
 # Local History for Visual Studio Code
 .history/
