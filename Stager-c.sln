@@ -7,6 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stager-c", "Stager-c\Stager
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D1415204-6B4B-4686-9AD0-300A28655F0C}"
 	ProjectSection(SolutionItems) = preProject
+		encrypt.py = encrypt.py
 		Stager-c\SyscallsStubs.std.x86.nasm = Stager-c\SyscallsStubs.std.x86.nasm
 	EndProjectSection
 EndProject
